@@ -21,7 +21,7 @@ Check that the project has the environments and access you expect.
 
 - The correct organization selected
 - Permission to view the project
-- The project name or list entry you want to open
+- The project name
 
 ## Using Devopness MCP
 
